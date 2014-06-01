@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "Name": "calle4", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.082640336881454, 9.931785824582347 ], [ -84.082897281063666, 9.926449407343212 ] ] } },
+{ "type": "Feature", "properties": { "cat": 2, "Name": "calle2", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.081810891881233, 9.931722874018787 ], [ -84.082237855255755, 9.926414138539828 ] ] } },
+{ "type": "Feature", "properties": { "cat": 3, "Name": "calle central", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.080951754938042, 9.931463195287279 ], [ -84.081473068343016, 9.926316194000608 ] ] } },
+{ "type": "Feature", "properties": { "cat": 4, "Name": "calle1", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.080137207864325, 9.931419180018695 ], [ -84.080565660777808, 9.926240279889294 ] ] } },
+{ "type": "Feature", "properties": { "cat": 5, "Name": "calle3", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.079299736278927, 9.931288272061202 ], [ -84.079690971590267, 9.926228657793915 ] ] } },
+{ "type": "Feature", "properties": { "cat": 6, "Name": "calle5", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.078439092585327, 9.931297988185303 ], [ -84.078745814132347, 9.92618783760517 ] ] } },
+{ "type": "Feature", "properties": { "cat": 7, "Name": "avenida3", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.083421253332105, 9.930868241244854 ], [ -84.077749259894944, 9.930475332360359 ] ] } },
+{ "type": "Feature", "properties": { "cat": 8, "Name": "avenida1", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.083466266192715, 9.929843277664089 ], [ -84.077851108266088, 9.929630494084931 ] ] } },
+{ "type": "Feature", "properties": { "cat": 9, "Name": "avenida central", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.08346194648712, 9.929053957782568 ], [ -84.077964974961986, 9.928761965687018 ] ] } },
+{ "type": "Feature", "properties": { "cat": 10, "Name": "avenida2", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.083528453327446, 9.928439839034978 ], [ -84.078052403519692, 9.927939431340599 ] ] } },
+{ "type": "Feature", "properties": { "cat": 11, "Name": "avenida4", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -84.083559197893308, 9.92756734570097 ], [ -84.078149682147867, 9.92710038259154 ] ] } }
+]
+}
