@@ -59,6 +59,12 @@ function init() {
 	xhr.open("GET", "data/restaurante.geojson", false);
 	xhr.send(null);
 	var servTurist = JSON.parse(xhr.responseText);
+	xhr.open("GET","data/calles.geojson",false); 
+	xhr.send(null);
+	var calle = JSON.parse(xhr.responseText);
+	xhr.open("GET","data/rios.geojson",false); 
+	xhr.send(null);
+	var rio = JSON.parse(xhr.responseText);
 
 	// Init Marker Icons
 	var redMarker = L.AwesomeMarkers.icon({
@@ -254,6 +260,16 @@ function init() {
 		"weight" : 5,
 		"opacity" : 0.65
 	};
+	var stylecalles = {
+		"color": "#999999",
+		"weight": 2,
+		"opacity": 0.65
+	};
+	var stylerios = {
+		"color": "#04B4AE",
+		"weight": 2,
+		"opacity": 0.65
+	};
 	
 	// Create Layers
 
@@ -334,11 +350,19 @@ function init() {
 		pointToLayer : ServTuristicos,
 		onEachFeature : onEachFeature
 	});
+	var callesLayer = L.geoJson(calle, {
+		pointToLayer : stylecalles,
+		onEachFeature : onEachFeature
+	});
+	var riosLayer = L.geoJson(rio, {
+		pointToLayer : stylerios,
+		onEachFeature : onEachFeature
+	});
 	// Create Map
 	var map = L.map("map", {
 		center : new L.LatLng(9.919, -84.031),
 		zoom : 14,
-		layers : [escuelasLayer, IgleLayer,	ParqueLayer, PuenteLayer, ComercioLayer, TelLayer, bancoLayer, busLayer, cantonLayer, distLayer, BarrioLayer, voronoiLayer, servSaludLayer, servPublicoLayer, instPuLayer, servDepLayer, servComLayer, servTransLayer, servTuristLayer]
+		layers : [escuelasLayer, IgleLayer,	ParqueLayer, PuenteLayer, ComercioLayer, TelLayer, bancoLayer, busLayer, cantonLayer, distLayer, BarrioLayer, voronoiLayer, callesLayer, riosLayer,servSaludLayer, servPublicoLayer, instPuLayer, servDepLayer, servComLayer, servTransLayer, servTuristLayer]
 	});
 	
 	// Create Maps Menu
@@ -354,6 +378,8 @@ function init() {
 		"Voronoi": voronoiLayer,
 		"Canton" : cantonLayer,
 		"Distritos": distLayer,
+		"Calles": callesLayer,
+		"Rios": riosLayer,
 		"Servicios de Salud" : servSaludLayer,
 		"Servicios Publicos" : servPublicoLayer,
 		"Barrios" : BarrioLayer,
