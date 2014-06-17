@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "id": 6, "Nombre": "Iglesia de Pinares", "Tipo": "iglesia", "distri": 2 }, "geometry": { "type": "Point", "coordinates": [ -84.025064762306144, 9.915838425603353 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "id": 5, "Nombre": "Iglesia de Tirrases", "Tipo": "iglesia", "distri": 4 }, "geometry": { "type": "Point", "coordinates": [ -84.040651677762455, 9.908088998709811 ] } },
+{ "type": "Feature", "id": -1294967293, "properties": { "cat": 3, "id": 4, "Nombre": "Iglesia Adventista", "Tipo": "iglesia", "distri": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.040651677762455, 9.919184769034649 ] } },
+{ "type": "Feature", "id": -294967292, "properties": { "cat": 4, "id": 3, "Nombre": "Iglesia Renacer", "Tipo": "iglesia", "distri": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.035984409292496, 9.911699527148848 ] } },
+{ "type": "Feature", "id": 705032709, "properties": { "cat": 5, "id": 2, "Nombre": "Iglesia la Lia", "Tipo": "iglesia", "distri": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.029115599091398, 9.908441245386793 ] } },
+{ "type": "Feature", "id": 1705032710, "properties": { "cat": 6, "id": 1, "Nombre": "Iglesia Catolica de Curridabat", "Tipo": "iglesia", "distri": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.037129210992674, 9.914341377226188 ] } }
+]
+}

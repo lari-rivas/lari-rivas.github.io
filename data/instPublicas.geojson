@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "Nombre": "Estadio de Curridabat", "Tipo": "Estadio" }, "geometry": { "type": "Point", "coordinates": [ -84.043014995421657, 9.914323041605277 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nombre": "Cementerio de Curridabat", "Tipo": "Cementerio" }, "geometry": { "type": "Point", "coordinates": [ -84.041097697715998, 9.913020262395024 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Parque de Curridabat", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.038098847458443, 9.914347622345092 ] } }
+]
+}

@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "id": 18, "Nombre": "Banco Promerica", "Tipo": "Banco", "Restaurant": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.042233789084406, 9.928550276374574 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "id": 17, "Nombre": "Banco Citi", "Tipo": "Banco", "Restaurant": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.042319309538371, 9.928764077509518 ] } },
+{ "type": "Feature", "id": -1294967293, "properties": { "cat": 3, "id": 16, "Nombre": "Banco de Costa Rica", "Tipo": "Banco", "Restaurant": 5 }, "geometry": { "type": "Point", "coordinates": [ -84.04193446749548, 9.928421995693602 ] } },
+{ "type": "Feature", "id": -294967292, "properties": { "cat": 4, "id": 15, "Nombre": "Bancredito", "Tipo": "Banco", "Restaurant": 9 }, "geometry": { "type": "Point", "coordinates": [ -84.040266818642891, 9.926283984344131 ] } },
+{ "type": "Feature", "id": 705032709, "properties": { "cat": 5, "id": 14, "Nombre": "Banco General", "Tipo": "Banco", "Restaurant": 30 }, "geometry": { "type": "Point", "coordinates": [ -84.04035233909687, 9.926455025252093 ] } },
+{ "type": "Feature", "id": 1705032710, "properties": { "cat": 6, "id": 13, "Nombre": "BAC", "Tipo": "Banco", "Restaurant": 32 }, "geometry": { "type": "Point", "coordinates": [ -84.045654607243549, 9.917902979854203 ] } },
+{ "type": "Feature", "id": -1589934585, "properties": { "cat": 7, "id": 12, "Nombre": "Banco de Costa Rica", "Tipo": "Banco", "Restaurant": 32 }, "geometry": { "type": "Point", "coordinates": [ -84.045825648151506, 9.918202301443129 ] } },
+{ "type": "Feature", "id": -589934584, "properties": { "cat": 8, "id": 11, "Nombre": "Banco Popular", "Tipo": "Banco", "Restaurant": 21 }, "geometry": { "type": "Point", "coordinates": [ -84.043431075440097, 9.921195517332391 ] } },
+{ "type": "Feature", "id": 410065417, "properties": { "cat": 9, "id": 10, "Nombre": "BNCR Plaza Cristal", "Tipo": "Banco", "Restaurant": 21 }, "geometry": { "type": "Point", "coordinates": [ -84.043302794759128, 9.921494838921314 ] } },
+{ "type": "Feature", "id": 1410065418, "properties": { "cat": 10, "id": 9, "Nombre": "Banco Nacional", "Tipo": "Banco", "Restaurant": 21 }, "geometry": { "type": "Point", "coordinates": [ -84.043388315213107, 9.921751400283252 ] } },
+{ "type": "Feature", "id": -1884901877, "properties": { "cat": 11, "id": 8, "Nombre": "BCT Banco", "Tipo": "Banco", "Restaurant": 11 }, "geometry": { "type": "Point", "coordinates": [ -84.038257087974387, 9.923846651405734 ] } },
+{ "type": "Feature", "id": -884901876, "properties": { "cat": 12, "id": 7, "Nombre": "Banco de Costa Rica", "Tipo": "Banco", "Restaurant": 11 }, "geometry": { "type": "Point", "coordinates": [ -84.038428128882344, 9.924103212767671 ] } },
+{ "type": "Feature", "id": 115098125, "properties": { "cat": 13, "id": 6, "Nombre": "Davivienda", "Tipo": "Banco", "Restaurant": 19 }, "geometry": { "type": "Point", "coordinates": [ -84.031885814152957, 9.916192570774625 ] } },
+{ "type": "Feature", "id": 1115098126, "properties": { "cat": 14, "id": 5, "Nombre": "Bac San Jose", "Tipo": "Banco", "Restaurant": 19 }, "geometry": { "type": "Point", "coordinates": [ -84.032142375514894, 9.916491892363551 ] } },
+{ "type": "Feature", "id": 2115098127, "properties": { "cat": 15, "id": 4, "Nombre": "Aldesa", "Tipo": "Banco", "Restaurant": 14 }, "geometry": { "type": "Point", "coordinates": [ -84.023419289209045, 9.912258629891596 ] } },
+{ "type": "Feature", "id": -1179869168, "properties": { "cat": 16, "id": 3, "Nombre": "Banco Popular", "Tipo": "Banco", "Restaurant": 19 }, "geometry": { "type": "Point", "coordinates": [ -84.033895544821462, 9.915508407142793 ] } },
+{ "type": "Feature", "id": -179869167, "properties": { "cat": 17, "id": 2, "Nombre": "CityBank", "Tipo": "Banco", "Restaurant": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.037017041391692, 9.915508407142793 ] } },
+{ "type": "Feature", "id": 820130834, "properties": { "cat": 18, "id": 1, "Nombre": "Banco Nacional", "Tipo": "Banco", "Restaurant": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.034451427772325, 9.915209085553867 ] } }
+]
+}

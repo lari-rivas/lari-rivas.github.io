@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "Nombre": "Estadio Curridabat", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.043060305069289, 9.91423297588201 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nombre": "Parque de Curridabat", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.03801774747626, 9.914563635396306 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Parque del Prado Curridabat", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.045457586547954, 9.925806058882412 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Nombre": "Parque", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.021898096154274, 9.911009045617611 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nombre": "Parque Lomas de Ayarco", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.028759281075949, 9.904561185088816 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nombre": "Parque de Pinares", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.01991413906849, 9.9152249544249 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nombre": "Parque de Pinos", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.029337935225968, 9.910513056346165 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nombre": "Parque el Dorado", "Tipo": "Parque" }, "geometry": { "type": "Point", "coordinates": [ -84.035124476726168, 9.922582128618013 ] } }
+]
+}

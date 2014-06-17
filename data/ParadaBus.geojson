@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "id": 2, "Nombre": "Parada Parque", "Tipo": "Parada Bus", "telefono": 8 }, "geometry": { "type": "Point", "coordinates": [ -84.038059079915627, 9.914046979905214 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "id": 1, "Nombre": "Parada Cementerio", "Tipo": "Parada Bus", "telefono": 11 }, "geometry": { "type": "Point", "coordinates": [ -84.040156701209426, 9.913933315697177 ] } },
+{ "type": "Feature", "id": -1294967293, "properties": { "cat": 3, "id": 3, "Nombre": "Parada Reparadora Total", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.03580646197446, 9.914749631373093 ] } },
+{ "type": "Feature", "id": -294967292, "properties": { "cat": 4, "id": 4, "Nombre": "Parada Bar Prado", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.034132498183325, 9.915390284182045 ] } },
+{ "type": "Feature", "id": 705032709, "properties": { "cat": 5, "id": 5, "Nombre": "Parada Motores Britanicos", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.034111831963685, 9.917704900782125 ] } },
+{ "type": "Feature", "id": 1705032710, "properties": { "cat": 6, "id": 9, "Nombre": "Parada Plaza Freses", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.040063703221008, 9.925785392662764 ] } },
+{ "type": "Feature", "id": -1589934585, "properties": { "cat": 7, "id": 8, "Nombre": "Parada Indoor Club", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.039133723337059, 9.924793414119874 ] } },
+{ "type": "Feature", "id": -589934584, "properties": { "cat": 8, "id": 7, "Nombre": "Parada Epa", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.03783175149951, 9.923222781426961 ] } },
+{ "type": "Feature", "id": 410065417, "properties": { "cat": 9, "id": 6, "Nombre": "Parada Amnet", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.036509113442321, 9.921362821659043 ] } },
+{ "type": "Feature", "id": 1410065418, "properties": { "cat": 10, "id": 11, "Nombre": "Parada Oeste Plaza", "Tipo": "Parada Bus", "telefono": 9 }, "geometry": { "type": "Point", "coordinates": [ -84.038431071869169, 9.91448097051773 ] } },
+{ "type": "Feature", "id": -1884901877, "properties": { "cat": 11, "id": 10, "Nombre": "Parada Plaza del Sol", "Tipo": "Parada Bus", "telefono": 2 }, "geometry": { "type": "Point", "coordinates": [ -84.04225432250324, 9.928554666095005 ] } },
+{ "type": "Feature", "id": -884901876, "properties": { "cat": 12, "id": 12, "Nombre": "Parada Condo. Jose Maria Zeledon", "Tipo": "Parada Bus", "telefono": 6 }, "geometry": { "type": "Point", "coordinates": [ -84.042088992746073, 9.917828898099991 ] } },
+{ "type": "Feature", "id": 115098125, "properties": { "cat": 13, "id": 14, "Nombre": "Parada Costado Norte Polideportivo", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.041035015544253, 9.919027538839318 ] } },
+{ "type": "Feature", "id": 1115098126, "properties": { "cat": 14, "id": 13, "Nombre": "Parada Costado Oeste Polideportivo", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.040911018226382, 9.917828898099989 ] } },
+{ "type": "Feature", "id": 2115098127, "properties": { "cat": 15, "id": 15, "Nombre": "Parada 100 norte Polideportivo", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.04117967908175, 9.919854187625059 ] } },
+{ "type": "Feature", "id": -1179869168, "properties": { "cat": 16, "id": 17, "Nombre": "Parada Plaza Cristal", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.043101637508613, 9.921796812271555 ] } },
+{ "type": "Feature", "id": -179869167, "properties": { "cat": 17, "id": 16, "Nombre": "Parada 100 Este Plaza Cristal", "Tipo": "Parada Bus", "telefono": 1 }, "geometry": { "type": "Point", "coordinates": [ -84.042481650919299, 9.921755479832271 ] } },
+{ "type": "Feature", "id": 820130834, "properties": { "cat": 18, "id": 18, "Nombre": "Parada Cafe Maravilloso", "Tipo": "Parada Bus", "telefono": 6 }, "geometry": { "type": "Point", "coordinates": [ -84.043659625438977, 9.917684234562486 ] } },
+{ "type": "Feature", "id": 1820130835, "properties": { "cat": 19, "id": 20, "Nombre": "Parada Bus", "Tipo": "Parada Bus", "telefono": 8 }, "geometry": { "type": "Point", "coordinates": [ -84.036095789049426, 9.912517679651591 ] } },
+{ "type": "Feature", "id": -1474836460, "properties": { "cat": 20, "id": 19, "Nombre": "Parada Perimercados", "Tipo": "Parada Bus", "telefono": 6 }, "geometry": { "type": "Point", "coordinates": [ -84.044858266178309, 9.918138891394644 ] } },
+{ "type": "Feature", "id": -474836459, "properties": { "cat": 21, "id": 21, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 14 }, "geometry": { "type": "Point", "coordinates": [ -84.036261118806578, 9.910616387444383 ] } },
+{ "type": "Feature", "id": 525163542, "properties": { "cat": 22, "id": 22, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 14 }, "geometry": { "type": "Point", "coordinates": [ -84.031755882924287, 9.910244395490796 ] } },
+{ "type": "Feature", "id": 1525163543, "properties": { "cat": 23, "id": 23, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 15 }, "geometry": { "type": "Point", "coordinates": [ -84.029565263642056, 9.908880424994322 ] } },
+{ "type": "Feature", "id": -1769803752, "properties": { "cat": 24, "id": 26, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 15 }, "geometry": { "type": "Point", "coordinates": [ -84.029069274370613, 9.9111950415944 ] } },
+{ "type": "Feature", "id": -769803751, "properties": { "cat": 25, "id": 25, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 15 }, "geometry": { "type": "Point", "coordinates": [ -84.027705303874129, 9.910575055005097 ] } },
+{ "type": "Feature", "id": 230196250, "properties": { "cat": 26, "id": 24, "Nombre": "Parada De Bus", "Tipo": "Parada Bus", "telefono": 15 }, "geometry": { "type": "Point", "coordinates": [ -84.027415976799134, 9.90714446254426 ] } },
+{ "type": "Feature", "id": 1230196251, "properties": { "cat": 27, "id": 30, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 10 }, "geometry": { "type": "Point", "coordinates": [ -84.023448062627551, 9.914666966494524 ] } },
+{ "type": "Feature", "id": -2064771044, "properties": { "cat": 28, "id": 29, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 10 }, "geometry": { "type": "Point", "coordinates": [ -84.023985384338289, 9.912972336483751 ] } },
+{ "type": "Feature", "id": -1064771043, "properties": { "cat": 29, "id": 28, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 15 }, "geometry": { "type": "Point", "coordinates": [ -84.029358601445622, 9.913840317708779 ] } },
+{ "type": "Feature", "id": -64771042, "properties": { "cat": 30, "id": 27, "Nombre": "Parada de Bus", "Tipo": "Parada Bus", "telefono": 7 }, "geometry": { "type": "Point", "coordinates": [ -84.031838547802849, 9.915865607233851 ] } }
+]
+}

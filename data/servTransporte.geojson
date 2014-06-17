@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "id": 8, "Nombre": "Servicentro el Muñeco", "tipo": "Gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.045366818593408, 9.903448957544979 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "id": 7, "Nombre": "Estacion de Servicio", "tipo": "Gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.02874825136567, 9.914555208749651 ] } },
+{ "type": "Feature", "properties": { "cat": 3, "id": 6, "Nombre": "Parada de Bus", "tipo": "Parada de Bus" }, "geometry": { "type": "Point", "coordinates": [ -84.029554577358255, 9.914110962127829 ] } },
+{ "type": "Feature", "properties": { "cat": 4, "id": 5, "Nombre": "Parqueos", "tipo": "Parqueo" }, "geometry": { "type": "Point", "coordinates": [ -84.032376892962986, 9.914510460655896 ] } },
+{ "type": "Feature", "properties": { "cat": 5, "id": 4, "Nombre": "Estacion de Servicio", "tipo": "Gasolinera" }, "geometry": { "type": "Point", "coordinates": [ -84.034303372515637, 9.916064887173421 ] } },
+{ "type": "Feature", "properties": { "cat": 6, "id": 3, "Nombre": "Estacion de Servicio Ranchito", "tipo": "Gasolineras" }, "geometry": { "type": "Point", "coordinates": [ -84.040978330229123, 9.916152973739557 ] } },
+{ "type": "Feature", "properties": { "cat": 7, "id": 2, "Nombre": "Parqueos Familiares", "tipo": "Parqueos" }, "geometry": { "type": "Point", "coordinates": [ -84.042814380860378, 9.910911461273528 ] } },
+{ "type": "Feature", "properties": { "cat": 8, "id": 1, "Nombre": "Perferica", "tipo": "Parada de Bus" }, "geometry": { "type": "Point", "coordinates": [ -84.039723908006508, 9.915575695131544 ] } }
+]
+}
